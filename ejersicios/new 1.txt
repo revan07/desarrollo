@@ -1,0 +1,25 @@
+<!DOCTIPE htmlt>
+<html lang="es-Es">
+<head>
+<meta charset="utf-8">
+<title>ejersicio propuesto</title>
+</head>
+<body>
+<h1>Menu<h1/>
+
+<ul>
+
+<li>inicio</li>
+
+<li>
+<strong>Noticias</strong>
+<ul>
+<li> <a href="https://www.applesfera.com/iphone/se-acabo-perseguir-ventas-apple-elimina-modelos-iphone-entrada-india" target="_blank" title="Ver las noticias mas recientes">Recientes</a></li>
+<li><strong><a href="https://www.20minutos.es/noticia/3687485/0/trump-levanta-veto-huawei/" target="_blank" title="ver las noticias mas leidas">mas leidas</a></strong></li>
+<li><a href="https://as.com/meristation/2019/07/16/noticias/1563251801_492405.html" target="_blank" title="ver las noticias mas valoradas">mas valoradas</a></li>
+</ul>
+</li>
+</ul>
+
+</body>
+</html>
